@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### About Me
+Hello there! My name is Cody, and I have a diverse background in education and hands-on experience. With a solid foundation in medical facility engineering, I hold certifications as a welder and diesel mechanic, and I'm proud to also serve as an instructor in both disciplines. Currently, I'm enthusiastically immersing myself in the world of software development as a student working towards certification in this dynamic field.
+
+### Contributions
+In addition to my professional endeavors, I'm deeply committed to giving back to my community through volunteer work. My contributions span various domains, including emergency management, search and rescue operations, as well as providing communications support for races and large events.
+
+### Community Involvement
+While I'm not currently actively engaged in any specific communities, I aspire to become more involved in meaningful initiatives in the future. I believe in the power of collaboration and look forward to contributing my skills and knowledge to projects that make a difference.
+
 <!--
 **code1719/code1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
